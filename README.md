@@ -1,2 +1,2 @@
-## Rebase ##
+* Rebase *
 Rebase practice
