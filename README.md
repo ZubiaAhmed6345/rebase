@@ -1,2 +1,3 @@
-*** Rebase ***
+# Rebase
+## second heading
 Rebase practice
